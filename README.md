@@ -6,11 +6,11 @@
 
 # kirami-plugin-boardgame
 
-_✨ KiramiBot 插件简单描述 ✨_
+_✨ 棋类游戏 五子棋、围棋、黑白棋 ✨_
 
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/kirami-plugin-boardgame.svg" alt="license">
+    <img src="https://img.shields.io/github/license/FrostN0v0/kirami-plugin-boardgame.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/kirami-plugin-boardgame">
     <img src="https://img.shields.io/pypi/v/kirami-plugin-boardgame.svg" alt="pypi">
